@@ -1,0 +1,29 @@
+* {
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.wrapper {
+    width: 80%;
+    margin-inline: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 100px 45px;
+}
+
+.item {
+    background-color: #F4ECE9;
+    height: 903px;
+    width: 450px;
+    text-align: center;
+    color: #4C4244;
+    font-weight: bold;
+  
+
+}
+
+.text {
+   margin-left: 25px;
+    width: 400px;
+}
+
